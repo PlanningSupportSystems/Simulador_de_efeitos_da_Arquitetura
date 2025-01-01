@@ -12,3 +12,8 @@ Simulation of Pedestrian Dynamics: Using the relationships established in the re
 Vitality Analysis: The simulation assesses how different architectural configurations impact the vitality and social dynamics of the urban scene, providing insights into the relationship between design and urban liveliness.
 
 By combining urban planning, architectural research, and advanced simulation technologies, this project serves as a powerful tool for architects, urban planners, and researchers. It enables the visualization and analysis of how design decisions shape the vibrancy and functionality of urban spaces.
+
+
+![Captura de tela 2024-12-31 215036](https://github.com/user-attachments/assets/3f6c889c-9454-4ae8-a515-98f000a2583e)
+
+![Captura de tela 2024-12-31 215128](https://github.com/user-attachments/assets/9939a973-e2ed-4a75-b009-cde91532414b)
